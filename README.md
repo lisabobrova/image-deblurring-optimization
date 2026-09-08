@@ -22,3 +22,4 @@ The notebook constructs the required discrete operators and applies variational 
 ## Context
 
 This project was completed as part of university coursework in optimization.
+
